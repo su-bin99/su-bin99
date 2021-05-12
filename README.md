@@ -1,3 +1,5 @@
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsu-bin99&count_bg=%23FFA795&title_bg=%23FF6767&icon=&icon_color=%23E7E7E7&title=hits+%F0%9F%92%9B&edge_flat=false"/></a>
+
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=80&section=header&text=🐰SubinBae🥕&fontSize=40&animation=twinkling)
 
 <h3 align = "center">🛠 Tech Stack 🛠</h3>
