@@ -28,3 +28,5 @@
   </a>
   <a href="mailto:sbsoobin@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sbsoobin@naver.com"/></a>
 </p>
+
+![](https://github-readme-stats.vercel.app/api?username=su-bin99&show_icons=true&theme=buefy)
