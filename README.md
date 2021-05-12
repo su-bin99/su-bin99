@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&Studio&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&Studio&logoColor=white"/></a>
 </p>
-<br/>
 <h3 align = "center">💛 Me 💛<h3/>
 <p align="center">
   <a href="https://velog.io/@sukong">
