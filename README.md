@@ -1,9 +1,10 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsu-bin99&count_bg=%23FFA795&title_bg=%23FF6767&icon=&icon_color=%23E7E7E7&title=hits+%F0%9F%92%9B&edge_flat=false"/></a>
+<div align = "center" >
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsu-bin99&count_bg=%23FFA795&title_bg=%23FF6767&icon=&icon_color=%23E7E7E7&title=hits+%F0%9F%92%9B&edge_flat=false"/></a>
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=80&section=header&text=🐰SubinBae🥕&fontSize=40&animation=twinkling)
+  ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=80&section=header&text=SubinBae&fontSize=40&animation=twinkling)
 
-<h3 align = "center">🛠 Tech Stack 🛠</h3>
-<p align="center">
+
+  <h3>🛠 Tech Stack 🛠</h3>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
@@ -18,16 +19,15 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&Studio&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&Studio&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&Studio&logoColor=white"/></a>
-</p>
-<h3 align = "center">💛 Me 💛<h3/>
-<p align="center">
+
+  <h3>🍒 Me 🍒<h3/>
   <a href="https://velog.io/@sukong">
     <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@sukong"/>
   </a>
   <a href="https://www.instagram.com/s0_0_kong/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/s0_0_kong/"/>
   </a>
-  <a href="mailto:sbsoobin@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sbsoobin@naver.com"/></a>
-</p>
+    <a href="mailto:sbsoobin@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sbsoobin@naver.com"/>   </a>
 
-![](https://github-readme-stats.vercel.app/api?username=su-bin99&show_icons=true&theme=buefy)
+  ![](https://github-readme-stats.vercel.app/api?username=su-bin99&show_icons=true&theme=buefy)
+</div>
